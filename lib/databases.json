@@ -1,0 +1,16 @@
+{
+  "default": {
+    "engine": "$DEFAULT_DB_ENGINE", 
+    "connect": {
+      "host": "$DEFAULT_DB_HOST", 
+      "port": "$DEFAULT_DB_PORT", 
+      "dbname": "$DEFAULT_DB_NAME", 
+      "username": "$DEFAULT_DB_USER", 
+      "password": "$DEFAULT_DB_PASSWORD" },
+    "settings":{
+      "db_ssl": "$DEFAULT_DB_SSL",
+      "ndi_enabled": "$DEFAULT_DB_NDI", 
+      "encrypt_password": "$DEFAULT_DB_ENCRYPT_PASSWORD", 
+      "dbs_host_restriction": "$DEFAULT_DB_HOST_RESTRICTION" }
+  }
+}

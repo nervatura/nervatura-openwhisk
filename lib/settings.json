@@ -1,0 +1,26 @@
+{
+  "APP_LANG": "en",
+  "CHECK_ADMIN": false,
+  "ADMIN_KEY": "",
+  "PYTHON2_PATH": "python",  
+
+  "DEFAULT_DB_ENGINE": "postgres",
+  "DEFAULT_DB_HOST": "",
+  "DEFAULT_DB_PORT": "",
+  "DEFAULT_DB_NAME": "compose",
+  "DEFAULT_DB_USER": "admin",
+  "DEFAULT_DB_PASSWORD": "",
+  "DEFAULT_DB_SSL": true,
+  "DEFAULT_DB_NDI": true,
+  "DEFAULT_DB_ENCRYPT_PASSWORD": "",
+  "DEFAULT_DB_HOST_RESTRICTION": "",
+
+  "SMTP_HOST": "",
+  "SMTP_PORT": "",
+  "SMTP_SECURE": true,
+  "SMTP_USER": "",
+  "SMTP_PASSWORD": "",
+
+  "MJ_APIKEY_PUBLIC": "",
+  "MJ_APIKEY_PRIVATE": ""
+}
